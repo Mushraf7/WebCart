@@ -1,0 +1,239 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  padding-top: 30px;
+  margin-bottom: 1px;
+}
+h1{
+  color: blue;
+}
+.logo{
+  color:darkorange;
+}
+.navbar-links{
+  display: flex;
+}
+.navbar-links li{
+  margin:15px 20px;
+  list-style: none;
+  font-size:x-large;
+}
+.navbar-links>li>a{
+  text-decoration: none;
+  color: black;
+}
+.header-icons{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  font-size: large;
+  
+}
+.header-icons div{
+  margin:25px 10px;
+}
+.header-icons i{
+  color: black;
+  height:25px;
+  width:30px;
+  font-size: x-large;
+  text-align: center;
+  background-color:gainsboro;
+  border-radius: 5px;
+}
+
+body{
+    background-color:gainsboro;
+    box-sizing: border-box;
+   margin-left: 0px;
+   margin-right: 0px;
+
+  }
+  .one img{
+    width: 100%;
+    height:400px;
+    position: relative;
+  }
+  .button{
+    height: 50px;
+    width: 160px;
+    font-size: x-large;
+    background-color: transparent;
+    border-radius: 5px;
+  }
+
+button{
+ height: 40px;
+    width: 130px;
+    font-size: larger;
+    background-color: transparent;
+    border-radius: 5px;
+    color: black;
+}
+
+  .text{
+    position: absolute;
+    top:150px;
+    left:28%;
+    font-size: xx-large;
+    text-align: center;
+  }
+  section{
+    display: flex;
+    justify-content:center;
+  }
+  h2{
+    text-align: center;
+  }
+  .main{
+    background-color:darkorange;
+    color: white;
+  }
+  .first{
+    height:350px;
+    width: 320px;
+    background-color: whitesmoke;
+    border: 5px solid white; 
+    text-align: center;
+    margin:5px;}
+
+  .features{
+    height:350px;
+    width:380px;
+    background-color: whitesmoke;
+    border: 5px solid white; 
+    text-align: center;
+    margin:5px;
+  }
+  i{
+    color: darkorange;
+  }
+  .products{
+    height:420px;
+    width: 380px;
+    background-color: whitesmoke;
+    border: 5px solid white; 
+    text-align: center;
+    margin:5px;
+  }
+  .products img{
+    height: 250px;
+    width: 300px
+  }
+  .categories{
+    height: 350px;
+    width:280px;
+    background-color: whitesmoke;
+    border: 5px solid white; 
+    text-align: center;
+    margin:5px;
+  }
+  .categories img{
+    height:200px;
+    width:150px
+  }
+  .review{
+    height: 380px;
+    width: 380px;
+    background-color: whitesmoke;
+    border: 5px solid white; 
+    text-align: center;
+    margin:5px;
+  }
+  .review img{
+    border-radius:50%;
+  }
+  
+  .blogs{
+    height:400px;
+    width:380px;
+    background-color: whitesmoke;
+    border: 5px solid white; 
+    margin:5px;
+    text-align: left;
+  }
+  .blogs img{
+    height:200px;
+    width:250px
+  }
+  .user{
+    margin-left:160px;
+  }
+  .blogs img{
+    width: 100%;
+  }
+
+  .blogs-content{
+padding-left: 15px;
+  }
+
+
+
+  .footer{
+    display: flex;
+    /* margin-left:500px;  */
+    font-size:medium;
+    background-color: white;
+    justify-content: center;
+  
+    /* padding-left: 60px; */
+  }
+  h4{
+    color:blue;
+    font-size:x-large;
+  }
+  .footer-icon i{
+    color: black;
+    height:25px;
+    width:30px;
+    font-size: x-large;
+    text-align: center;
+    background-color:gainsboro;
+    border-radius: 5px;
+  }
+  .footer-text{
+    height:400px;
+    width:295px;
+  
+   
+  }
+
+  .footer-links>li>a{
+    text-decoration: none;
+    color: black;
+  }
+  .footer-links li{
+    list-style:none;
+    
+  }
+  .mail{
+    background-color: gainsboro;
+    border-collapse: collapse;
+    border-radius: 5px;
+    height: 40px;
+    width: 250px;
+    border: 1px ;
+  }
+  .subs{
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+    width:130px;
+    font-size:larger;
+  }
+  .foot{
+    padding-left: 40px;
+  }
+
+hr{
+  width: 1200px; 
+}
+
+.hr1{
+  width: 350px;
+}
+#center{
+  text-align: center;
+  font-size: x-large;
+}
